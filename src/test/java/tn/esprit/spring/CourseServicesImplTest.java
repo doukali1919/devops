@@ -1,5 +1,6 @@
-import tn.esprit.spring.services.CourseServicesImpl;
+package tn.esprit.spring;
 
+import tn.esprit.spring.services.CourseServicesImpl;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
